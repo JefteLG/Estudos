@@ -8,3 +8,5 @@ O Sklearn implementa o Naive Bayes de 3 formas:
 - Bernoulli;
 
 # [Git-GitHub](Naive_Bayes/Notebook/Naive_Bayes.ipynb)
+- GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. 
+- Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
