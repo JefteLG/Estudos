@@ -1,1 +1,1 @@
-# [Naive_Bayes](/Naive_Bayes.ipynb)
+# [Naive_Bayes](Naive_Bayes/Notebook/Naive_Bayes.ipynb)
