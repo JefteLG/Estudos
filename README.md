@@ -1,2 +1,1 @@
-# Estudos
-More Skills
+# [Naive_Bayes](/Naive_Bayes.ipynb)
